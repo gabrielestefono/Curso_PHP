@@ -8,7 +8,6 @@
     $b = 2;
     $c = 10;
     echo $a + $b / $c;
-    
     echo "<br>";
     echo $c + $b / $a;
     $d = $a * $b * $c;
