@@ -1,12 +1,32 @@
-# Curso de PHP
+# Repositório de Estudos de PHP
 
-Criei esse repositório para fazer uma revisão de todos os conceitos do PHP.
+## Sobre o Repositório
 
-Percebi que por achar que já sei alguns conceitos básicos, eu passo a ignorar e eventualmente acabo tendo que voltar e rever, então a ideia desse repositório é:
-  * Revisar conceitos básicos do PHP
-  * Me comprometer a realmente ter provas de que fiz, para mim mesmo.
-  * Tirar o máximo de proveito do curso, seja na revisão em si, ou aprendendo coisas novas.
-  
+Este repositório contém todos os arquivos e exercícios que realizei durante meu curso de PHP. O objetivo deste repositório é documentar minha jornada de aprendizado e servir como referência para futuros estudos e projetos em PHP.
 
-Link do curso em questão:
-https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/
+## Estrutura do Repositório
+
+- O repositório está dividido em pastas de projetos, cada projeto corresponde a uma sessão do curso que estava fazendo na Ûdemy. 
+
+## Como Usar
+
+O repositório em questão foi feito apenas para estudos, mas caso queira explorar, você precisa ter um ambiente de desenvolvimento PHP configurado. Siga os passos abaixo:
+
+1. Clone o repositório em sua máquina local:
+   ```
+   git clone https://github.com/gabrielestefono/Curso_PHP.git
+   ```
+2. Navegue até o diretório do repositório:
+   ```
+   cd curso_PHP
+   ```
+3. Execute os arquivos PHP utilizando um servidor local ou uma ferramenta como o XAMPP.
+
+## Contribuições
+
+Este repositório é pessoal e foi criado com o intuito de documentar meu aprendizado.
+
+## Contato
+
+- Gabriel Estéfono Gomes de Sousa
+- gabrielestefono@hotmail.com
