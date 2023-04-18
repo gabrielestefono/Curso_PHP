@@ -1,6 +1,4 @@
-# Revisão do meu Curso de PHP
-
-
+# Curso de PHP
 
 Criei esse repositório para fazer uma revisão de todos os conceitos do PHP.
 
