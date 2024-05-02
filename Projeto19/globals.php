@@ -1,3 +1,5 @@
 <?php
 
-$BASE_URL = 'http://localhost/Projeto19/';
+session_start();
+
+$BASE_URL = "http://" . $_SERVER["SERVER_NAME"] . dirname($_SERVER["REQUEST_URI"] . "?" ) . "/";
