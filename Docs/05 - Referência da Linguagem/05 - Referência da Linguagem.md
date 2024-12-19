@@ -6,40 +6,40 @@
   * [Separação de instruções](https://www.php.net/manual/pt_BR/language.basic-syntax.instruction-separation.php)
   * [Comentários](https://www.php.net/manual/pt_BR/language.basic-syntax.comments.php)
 
-* Tipos
-  * Introdução
-  * Sistema de tipo
-  * NULL
-  * Booleanos
-  * Inteiros
-  * Números de ponto flutuante
-  * Strings
-  * Strings numéricas
-  * Arrays
-  * Objetos
-  * Enumerations
-  * Recursos
-  * Callbacks / Callables
-  * Mixed
-  * Void
-  * Never
-  * Tipos de classes relativas
-  * Tipos de valor
-  * Iteráveis
-  * Declarações de tipo
-  * Conversão automática de tipos
+* [Tipos](https://www.php.net/manual/pt_BR/language.types.php)
+  * [Introdução](https://www.php.net/manual/pt_BR/language.types.intro.php)
+  * [Sistema de tipo](https://www.php.net/manual/pt_BR/language.types.type-system.php)
+  * [NULL](https://www.php.net/manual/pt_BR/language.types.null.php)
+  * [Booleanos](https://www.php.net/manual/pt_BR/language.types.boolean.php)
+  * [Inteiros](https://www.php.net/manual/pt_BR/language.types.integer.php)
+  * [Números de ponto flutuante](https://www.php.net/manual/pt_BR/language.types.float.php)
+  * [Strings](https://www.php.net/manual/pt_BR/language.types.string.php)
+  * [Strings numéricas](https://www.php.net/manual/pt_BR/language.types.numeric-strings.php)
+  * [Arrays](https://www.php.net/manual/pt_BR/language.types.array.php)
+  * [Objetos](https://www.php.net/manual/pt_BR/language.types.object.php)
+  * [Enumerations](https://www.php.net/manual/pt_BR/language.types.enumerations.php)
+  * [Recursos](https://www.php.net/manual/pt_BR/language.types.resource.php)
+  * [Callbacks / Callables](https://www.php.net/manual/pt_BR/language.types.callable.php)
+  * [Mixed](https://www.php.net/manual/pt_BR/language.types.mixed.php)
+  * [Void](https://www.php.net/manual/pt_BR/language.types.void.php)
+  * [Never](https://www.php.net/manual/pt_BR/language.types.never.php)
+  * [Tipos de classes relativas](https://www.php.net/manual/pt_BR/language.types.relative-class-types.php)
+  * [Tipos de valor](https://www.php.net/manual/pt_BR/language.types.value.php)
+  * [Iteráveis](https://www.php.net/manual/pt_BR/language.types.iterable.php)
+  * [Declarações de tipo](https://www.php.net/manual/pt_BR/language.types.declarations.php)
+  * [Conversão automática de tipos](https://www.php.net/manual/pt_BR/language.types.type-juggling.php)
 
-* Variáveis
-  * Básico
-  * Variáveis Predefinidas
-  * Escopo de variáveis
-  * Variáveis variáveis
-  * Variáveis de fontes externas
+* [Variáveis](https://www.php.net/manual/pt_BR/language.variables.php)
+  * [Básico](https://www.php.net/manual/pt_BR/language.variables.basics.php)
+  * [Variáveis Predefinidas](https://www.php.net/manual/pt_BR/language.variables.predefined.php)
+  * [Escopo de variáveis](https://www.php.net/manual/pt_BR/language.variables.scope.php)
+  * [Variáveis variáveis](https://www.php.net/manual/pt_BR/language.variables.variable.php)
+  * [Variáveis de fontes externas](https://www.php.net/manual/pt_BR/language.variables.external.php)
 
-* Constantes
-  * Sintaxe
-  * Constantes Predefinidas
-  * Constantes Mágicas
+* [Constantes](https://www.php.net/manual/pt_BR/language.constants.php)
+  * [Sintaxe](https://www.php.net/manual/pt_BR/language.constants.syntax.php)
+  * [Constantes Predefinidas](https://www.php.net/manual/pt_BR/language.constants.predefined.php)
+  * [Constantes Mágicas](https://www.php.net/manual/pt_BR/language.constants.magic.php)
 
 * Expressões
 * Operadores
