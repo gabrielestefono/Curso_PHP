@@ -88,7 +88,7 @@
   * Arrow Functions
   * Sintaxe de Callable de Primeira Classe
 
-* Classes e Objetos
+* [Classes e Objetos](https://www.php.net/manual/pt_BR/language.oop5.php)
   * Introdução
   * O básico
   * Propriedades
