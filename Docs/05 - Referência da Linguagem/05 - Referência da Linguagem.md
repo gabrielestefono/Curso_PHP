@@ -90,7 +90,7 @@
 
 * [Classes e Objetos](https://www.php.net/manual/pt_BR/language.oop5.php)
   * [Introdução](https://www.php.net/manual/pt_BR/oop5.intro.php)
-  * O básico
+  * [O básico](https://www.php.net/manual/pt_BR/language.oop5.basic.php)
   * Propriedades
   * Constantes de Classe
   * Autoloading Classes
