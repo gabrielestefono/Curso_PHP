@@ -41,7 +41,7 @@
   * [Constantes Predefinidas](https://www.php.net/manual/pt_BR/language.constants.predefined.php)
   * [Constantes Mágicas](https://www.php.net/manual/pt_BR/language.constants.magic.php)
 
-* Expressões
+* [Expressões](https://www.php.net/manual/pt_BR/language.expressions.php)
 * Operadores
   * Precedência de Operadores
   * Aritméticos — Operadores Aritméticos
